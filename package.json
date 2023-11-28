@@ -1,0 +1,25 @@
+{
+  "name": "mcspb-hackathon",
+  "version": "0.0.0",
+  "description": "MCSPB Hackathon",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athanclark/mcspb-hackathon.git"
+  },
+  "author": "Athan Clark <athan.clark@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/athanclark/mcspb-hackathon/issues"
+  },
+  "homepage": "https://github.com/athanclark/mcspb-hackathon#readme",
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.3"
+  }
+}
